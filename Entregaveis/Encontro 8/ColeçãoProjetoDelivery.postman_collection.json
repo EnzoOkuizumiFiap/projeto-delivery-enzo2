@@ -1,0 +1,116 @@
+{
+	"info": {
+		"_postman_id": "cc7d2f4d-8e20-4f97-970d-235b49fa2fac",
+		"name": "ColeçãoProjetoDelivery",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "46483483",
+		"_collection_link": "https://enzookuizumi.postman.co/workspace/ProjetoDelivery~b15fe6dc-3a9b-4966-9444-855e71b6d82e/collection/46483483-cc7d2f4d-8e20-4f97-970d-235b49fa2fac?action=share&source=collection_link&creator=46483483"
+	},
+	"item": [
+		{
+			"name": "Clientes_todos",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://enzo-okuizumi-delivery.run-eu-central1.goorm.io/clientes",
+					"protocol": "https",
+					"host": [
+						"enzo-okuizumi-delivery",
+						"run-eu-central1",
+						"goorm",
+						"io"
+					],
+					"path": [
+						"clientes"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Restaurantes_todos",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://enzo-okuizumi-delivery.run-eu-central1.goorm.io/restaurantes",
+					"protocol": "https",
+					"host": [
+						"enzo-okuizumi-delivery",
+						"run-eu-central1",
+						"goorm",
+						"io"
+					],
+					"path": [
+						"restaurantes"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Pedidos_todos",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://enzo-okuizumi-delivery.run-eu-central1.goorm.io/pedidos",
+					"protocol": "https",
+					"host": [
+						"enzo-okuizumi-delivery",
+						"run-eu-central1",
+						"goorm",
+						"io"
+					],
+					"path": [
+						"pedidos"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Produtos_todos",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://enzo-okuizumi-delivery.run-eu-central1.goorm.io/produtos",
+					"protocol": "https",
+					"host": [
+						"enzo-okuizumi-delivery",
+						"run-eu-central1",
+						"goorm",
+						"io"
+					],
+					"path": [
+						"produtos"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Clientes_todos",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://enzo-okuizumi-delivery.run-eu-central1.goorm.io/clientes",
+					"protocol": "https",
+					"host": [
+						"enzo-okuizumi-delivery",
+						"run-eu-central1",
+						"goorm",
+						"io"
+					],
+					"path": [
+						"clientes"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
